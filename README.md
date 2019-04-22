@@ -1,5 +1,6 @@
 Pandamonium 2019 Puzzle Hunt
-----------------------------
+============================
+
 The puzzle hunt at Pandamonium 2019 took players on a trip around the frontier in search of Pando's lost treasure. While the event itself is long over, you can recreate the puzzle part of it for yourself with these included PDF files. Here's how it works:
 
 Puzzles.pdf contains eight pages, one for each of the puzzles in the event. Print this out; most of these are designed to be written on and filled out. Each puzzle here, when you solve it, will give you a word or phrase.
